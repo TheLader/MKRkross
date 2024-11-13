@@ -1,0 +1,14 @@
+C:\Users\Богдан\Desktop\Проекти с#\MKRkross\MKR\bin\Debug\net8.0\MKR.exe
+C:\Users\Богдан\Desktop\Проекти с#\MKRkross\MKR\bin\Debug\net8.0\MKR.deps.json
+C:\Users\Богдан\Desktop\Проекти с#\MKRkross\MKR\bin\Debug\net8.0\MKR.runtimeconfig.json
+C:\Users\Богдан\Desktop\Проекти с#\MKRkross\MKR\bin\Debug\net8.0\MKR.dll
+C:\Users\Богдан\Desktop\Проекти с#\MKRkross\MKR\bin\Debug\net8.0\MKR.pdb
+C:\Users\Богдан\Desktop\Проекти с#\MKRkross\MKR\obj\Debug\net8.0\MKR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Богдан\Desktop\Проекти с#\MKRkross\MKR\obj\Debug\net8.0\MKR.AssemblyInfoInputs.cache
+C:\Users\Богдан\Desktop\Проекти с#\MKRkross\MKR\obj\Debug\net8.0\MKR.AssemblyInfo.cs
+C:\Users\Богдан\Desktop\Проекти с#\MKRkross\MKR\obj\Debug\net8.0\MKR.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Desktop\Проекти с#\MKRkross\MKR\obj\Debug\net8.0\MKR.dll
+C:\Users\Богдан\Desktop\Проекти с#\MKRkross\MKR\obj\Debug\net8.0\refint\MKR.dll
+C:\Users\Богдан\Desktop\Проекти с#\MKRkross\MKR\obj\Debug\net8.0\MKR.pdb
+C:\Users\Богдан\Desktop\Проекти с#\MKRkross\MKR\obj\Debug\net8.0\MKR.genruntimeconfig.cache
+C:\Users\Богдан\Desktop\Проекти с#\MKRkross\MKR\obj\Debug\net8.0\ref\MKR.dll
